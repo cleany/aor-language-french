@@ -31,6 +31,9 @@ module.exports = {
                 upload_several: 'Déposez les fichiers à uploader, ou cliquez pour en sélectionner.',
                 upload_single: 'Déposez le fichier à uploader, ou cliquez pour le sélectionner.',
             },
+            autocomplete: {
+                none: 'Aucun',
+            },
         },
         message: {
             yes: 'Oui',

@@ -33,7 +33,6 @@ module.exports = {
             },
             autocomplete: {
                 none: 'Aucun',
-                all: 'Tous',
             },
         },
         message: {

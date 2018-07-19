@@ -35,6 +35,9 @@ module.exports = {
                 none: 'Aucun',
                 all: 'Tous',
             },
+            references: {
+              single_missing: 'Impossible de trouver la référence associée',
+            },
         },
         message: {
             yes: 'Oui',

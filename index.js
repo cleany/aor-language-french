@@ -34,6 +34,9 @@ module.exports = {
             autocomplete: {
                 none: 'Aucun',
             },
+            references: {
+              single_missing: 'Impossible de trouver la référence associée',
+            },
         },
         message: {
             yes: 'Oui',

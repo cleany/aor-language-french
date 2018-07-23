@@ -1,7 +1,7 @@
 {
   "name": "@sebastien-cleany/aor-language-french",
   "private": false,
-  "version": "1.9.1",
+  "version": "1.9.2",
   "description": "French translations for admin-on-rest, the frontend framework for building admin applications on top of REST services",
   "main": "index.js",
   "scripts": {

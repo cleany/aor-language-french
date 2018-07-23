@@ -33,7 +33,6 @@ module.exports = {
             },
             autocomplete: {
                 none: 'Aucun',
-                all: 'Tous',
             },
             references: {
               single_missing: 'Impossible de trouver la référence associée',
